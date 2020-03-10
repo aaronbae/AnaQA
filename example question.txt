@@ -1,0 +1,6 @@
+Q  : What is the name of the fight song of the university whose main campus is in Lawrence, Kansas and whose branch campuses are in the Kansas City metropolitan area?
+A  : kansas song
+Q1: which university whose main campus is in Lawrence, Kansas?
+A1: ['Mount Oread', 'Mount Oread,', 'Mount', 'Mount Oread, the highest elevation in Lawrence', 'University of Kansas']
+Q2: What is the name of the fight song of Mount Oread and whose branch campuses are in the Kansas City metropolitan area?
+A2: ['Edwards Campus', 'Edwards Campus in Overland Park', 'the Edwards Campus', "Edwards Campus in Overland Park, and the university's medical school and hospital", 'the Edwards Campus in Overland Park']
