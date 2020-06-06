@@ -1,7 +1,8 @@
 # AnaQA
 Multi-Hop Question Answering system based on DecompRC and Dr.QA. The goal is to replace the single-hop question answering engien in DecompRC with DrQA system. The goal was to see if the the answer accuracy will further improve if it were to use a different single-hop answering engine. 
-
-![AnaQA Results](https://github.com/aaronbae/AnaQA/blob/master/anaqa-results.PNG)
+<p align="center">
+  <img src="https://github.com/aaronbae/AnaQA/blob/master/anaqa-results.PNG" width="700" title="AnaQA Results">
+</p>
 As apparent in the table above, the result was unfortunately poorer than the original DecompRC. However, significant insight related to question-answer model was observed. You can see the final report in this repo or from this link here: https://github.com/aaronbae/AnaQA/blob/master/NLP_Project_Report.pdf
 
 ## Important Notes to Run
