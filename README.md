@@ -9,9 +9,9 @@ Make sure that you have the "model" folder from DecompRC and "data" folder from 
 
 # Citation
 We recognize that the project is largely an attempt to combine two different projects together. Here are the 2 projects that we reference:
-DecompRC
-- Git: https://github.com/shmsw25/DecompRC
-- Paper: https://arxiv.org/pdf/1906.02916.pdf
-DrQA:
-- Git: https://github.com/facebookresearch/DrQA
-- Paper: https://arxiv.org/pdf/1704.00051.pdf
+1. DecompRC:
+  - Git: https://github.com/shmsw25/DecompRC
+  - Paper: https://arxiv.org/pdf/1906.02916.pdf
+2. DrQA:
+  - Git: https://github.com/facebookresearch/DrQA
+  - Paper: https://arxiv.org/pdf/1704.00051.pdf
